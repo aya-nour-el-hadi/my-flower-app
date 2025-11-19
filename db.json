@@ -1,0 +1,151 @@
+{
+    "Flowers":[
+        {
+        "id" : 1,
+        "title":"White Flowers with Yellow Centers in a Blue Garden",
+        "images": "/Images1/Flowers12.png",
+        "text":"The painting features a full, vibrant canvas dominated by a rich blue background. White flowers with yellow centers are scattered across the scene, creating a lively contrast against the blue. At the bottom, hints of greenery add depth and a touch of spring freshness. The colors and composition evoke a cheerful, serene atmosphere, celebrating the delicate beauty of blooming flowers.",
+        "price" : 10000
+        },
+        {"id":2,
+        "title":"Pink Flowers with Lemon Accents",
+        "images": "/Images1/Flowers10.png",
+        "text":"This artistic painting features soft pink flowers set against a predominantly white background. The leaves are painted in shades of green, framing the blossoms naturally. At the center of the composition, some flowers have subtle lemon-colored highlights created with a watercolor effect, adding a delicate, luminous touch. The overall piece exudes freshness and tranquility, capturing the gentle charm of a spring garden.",
+        "price" : 200
+        },
+        {"id":3,
+        "title":"Large White Flowers with Lemon Centers ",
+        "images": "/Images1/Flowers9.png",
+        "text":"This painting showcases large white flowers with lemon-colored centers. The blossoms are surrounded by vibrant shades of yellow, lemon, and blue, creating a lively and colorful composition. The interplay of these bright tones gives the artwork energy and freshness, highlighting the bold beauty of the flowers while maintaining a harmonious balance across the canvas.",
+        "price" : 200
+        },
+        {"id":4,
+        "title":"Spring Bouquet in Watercolor",
+        "images": "/Images1/Flowers7.png",
+        "text":"This watercolor painting depicts a spring scene filled with flowers in red, white, and pink hues. The blossoms are arranged naturally, capturing the freshness and vibrancy of springtime. The soft blending of colors and delicate brushwork evoke a lively yet gentle atmosphere, celebrating the beauty and energy of blooming flowers.",
+        "price" : 200
+        },
+        {"id":5,
+        "title":"Vibrant Bouquet in a Brown Glass Vase",
+        "images": "/Images1/Flowers6.png",
+        "text":"This painting depicts a pair of brown glass vases holding a colorful bouquet of flowers. The arrangement includes white, lemon-yellow, and pink blossoms, complemented by green leaves. The background features a blend of pink, purple, and blue tones, adding vibrancy and depth to the composition. The watercolor technique creates soft, flowing transitions between colors, giving the artwork a lively yet harmonious feel that highlights the natural beauty of the flowers.",
+        "price" : 200
+        },
+        {"id":6,
+        "title":"White and Purple Flowers with a Butterfly on a Light Blue Background",
+        "images": "/Images1/Flowers5.png",
+        "text":"This painting features white and purple flowers set against a soft light blue and white background, creating a calm and airy atmosphere. A delicate purple butterfly hovers near the blossoms, adding a touch of life and movement to the scene. The combination of flowers, greenery, and the butterfly evokes a sense of serenity and the gentle beauty of a peaceful garden.",
+        "price" : 200
+        },
+        {"id":7,
+        "title":"Flowers Under a Soft Sky",
+        "images": "/Images1/Flowers4.png",
+        "text":"This painting depicts a gentle sky with soft pink tones and white clouds, creating a serene backdrop. The foreground features a variety of flowers in yellow, white, pink, purple, and soft pastel shades, blending harmoniously with the sky. The composition evokes a peaceful, spring-like atmosphere, celebrating the delicate colors and natural beauty of blooming flowers under a calm sky.",
+        "price" : 200
+        },
+        {"id":8,
+        "title":"White Flowers Against a Sky-Like Background",
+        "images": "/Images1/Flowers3.png",
+        "text":"This painting features a large white flower with a colorful yellow center, accompanied by smaller flowers that resemble the main bloom. The background blends soft pink, sky blue, and white tones, creating an effect similar to clouds in the sky. The combination of vibrant flowers and gentle, airy background evokes a sense of calm, freshness, and the delicate beauty of a serene garden scene.",
+        "price" : 200
+        },
+        {"id":9,
+        "title":"Painting the Yellow Centers",
+        "images": "/Images1/flower13.png",
+        "text":"This image captures the process of painting daisies, focusing on the artist’s hand filling in the yellow centers. The background features gradients of green and yellow, creating depth and context for the flowers. The artwork highlights attention to detail, especially in layering colors, and appears to be a snapshot from a painting tutorial or instructional video.",
+        "price" : 200
+        },
+        {"id":10,
+        "title":"White Daisies Under a Blue Sky",
+        "images": "/Images1/flower14.png",
+        "text":"This painting features white daisies with yellow centers set against a bright blue sky. The grass is painted in varying shades of green, adding depth and contrast to the scene. Three paintbrushes are placed beside the canvas, highlighting the artist’s tools alongside the finished work. The style is simple and clear, making it beginner-friendly, with vibrant colors that emphasize the contrast between the sky and the greenery.",
+        "price" : 200
+        },      
+        {"id":11,
+        "title":"Hand-Painted Daisies on Black",
+        "images": "/Images1/Flower15.png",
+        "text":"This artwork shows four large daisies on a deep black background. A hand is holding the canvas, indicating that it is a handmade painting rather than a print. The black background makes the white petals stand out strikingly, while the detailed brushwork gives the flowers a more realistic appearance compared to the first image.",
+        "price" : 200
+        },
+        {"id":12,
+        "title":"Delicate Flowers Against a Sky-Like Background",
+        "images": "/Images1/Flower16.png",
+        "text":"This painting features flowers with petals in soft and deep shades, set against a background reminiscent of the sky. The blossoms are surrounded by lush green leaves, creating a natural and balanced composition. The gentle contrast between the floral colors and the sky-like backdrop evokes a serene and uplifting atmosphere, highlighting the delicate beauty of the flowers in a peaceful, airy setting.",
+        "price" : 200
+        },
+        {"id":13,
+        "title":"Large Pink Flowers on a Black Background",
+        "images": "/Images1/Flower17.png",
+        "text":"This watercolor painting features large pink flowers, with petals ranging from soft light pink to deeper shades, set against a solid black background. The flowers are depicted with green stems, adding contrast and grounding the composition. The dark backdrop makes the vibrant pinks stand out vividly, highlighting the elegance and boldness of the blooms. The overall effect is striking and dramatic, emphasizing the beauty and presence of the flowers.",
+        "price" : 200
+        },
+        {"id":14,
+        "title":"yellow Flowers Amid Soft Greenery",
+        "images": "/Images1/Flower18.png",
+        "text" : "The painting presents a bouquet of pink flowers rendered with a delicate touch, their petals showing gentle color gradients that bring them to life. The surrounding green leaves create a balanced composition and add a natural, refreshing feel. The colors and lines are harmonious, giving the artwork a sense of calm and the simple beauty of nature.",
+        "price" : 200
+        },
+        {"id":15,
+        "title":"Tall Blue Flowers Against a Light Yellow Background",
+        "images": "/Images1/Flower19.png",
+        "text":"This painting features tall blue flowers standing gracefully against a soft, light yellow background. The contrast between the vibrant blue petals and the warm yellow backdrop creates a bright and cheerful atmosphere. The composition emphasizes the natural elegance and height of the flowers, capturing a simple yet striking scene from nature.",
+        "price" : 200
+        },
+        {"id":16,
+        "title":"Colorful Bouquet in a Light Blue Glass Vase",
+        "images": "/Images1/Flower20.png",
+        "text":"This watercolor painting depicts a glass vase in light blue, holding a vibrant bouquet of flowers. The arrangement includes yellow, red, pink, purple, and lemon-colored blossoms, accompanied by lush green leaves. The use of watercolor creates soft blends and a gentle, flowing effect, giving the composition a lively yet delicate feel. The combination of bright colors and transparent vase conveys freshness, cheerfulness, and the natural beauty of a blooming bouquet.",
+        "price" : 200
+        },
+        {"id":17,
+        "title":"Red Roses in a Mixed Green-Yellow-White Background",
+        "images": "/Images1/Flower21.png",
+        "text":"This watercolor painting features a pair of vibrant red roses set against a blended background of green, yellow, and white. The colors flow softly into each other, creating a harmonious and lively atmosphere. The delicate brushstrokes emphasize the texture of the petals and leaves, giving the flowers a sense of freshness and natural beauty. The overall effect is both dynamic and soothing, capturing the elegance and vitality of the roses.",
+        "price" : 200
+        },
+        {"id":18,
+        "title":"Watercolor Blossoms with Glass Vase",
+        "images": "/Images1/image.png",
+        "text":"This painting, created with watercolor, depicts a glass vase holding a bouquet of flowers. The arrangement includes white blossoms with yellow centers, complemented by green leaves and delicate purple flowers. The transparency of the vase is rendered subtly, reflecting the watercolor’s soft and flowing technique. The overall composition conveys a light, fresh, and serene atmosphere, capturing the gentle beauty and elegance of a simple floral arrangement.",
+        "price" : 200
+        },
+        {"id":21,
+        "title":"White Canvas with Shades of Pink Flowers",
+        "images": "/Images1/image2.png",
+        "text":"This painting features a white canvas adorned with flowers in varying shades of pink, from soft light pink to deeper, richer pinks. The blooms are surrounded by subtle green accents, adding depth and a natural touch to the composition. The gentle contrast between the white background and the pink flowers creates a delicate, airy atmosphere, evoking a sense of calm and the quiet beauty of a blossoming garden.",
+        "price" : 200
+        },
+        {"id":22,
+        "title":"Pink Blossoms Amid Green Leaves on a Blue Canvas",
+        "images": "/Images1/image3.png",
+        "text":"This artistic painting features delicate pink flowers surrounded by lush green leaves. The background is a soft, light blue, giving the scene an airy and serene atmosphere. The colors appear layered and blended using watercolor techniques, creating a luminous effect reminiscent of pastel tones. The overall composition conveys freshness and tranquility, highlighting the gentle beauty of blooming flowers in a peaceful garden setting.",
+        "price" : 200
+        },
+        {"id":170,
+        "title":"Red Roses in a Mixed Green-Yellow-White Background",
+        "images": "/Images1/Flower21.png",
+        "text":"This watercolor painting features a pair of vibrant red roses set against a blended background of green, yellow, and white. The colors flow softly into each other, creating a harmonious and lively atmosphere. The delicate brushstrokes emphasize the texture of the petals and leaves, giving the flowers a sense of freshness and natural beauty. The overall effect is both dynamic and soothing, capturing the elegance and vitality of the roses.",
+        "price" : 200
+        },      
+        {"id":111,
+        "title":"Hand-Painted Daisies on Black",
+        "images": "/Images1/Flower15.png",
+        "text":"This artwork shows four large daisies on a deep black background. A hand is holding the canvas, indicating that it is a handmade painting rather than a print. The black background makes the white petals stand out strikingly, while the detailed brushwork gives the flowers a more realistic appearance compared to the first image.",
+        "price" : 200
+        },
+        {"id":200,
+        "title":"yellow Flowers Amid Soft Greenery",
+        "images": "/Images1/Flower18.png",
+        "text" : "The painting presents a bouquet of pink flowers rendered with a delicate touch, their petals showing gentle color gradients that bring them to life. The surrounding green leaves create a balanced composition and add a natural, refreshing feel. The colors and lines are harmonious, giving the artwork a sense of calm and the simple beauty of nature.",
+        "price" : 200
+        },
+        {"id":90,
+        "title":"Pink Flowers with Lemon Accents",
+        "images": "/Images1/Flowers10.png",
+        "text":"This artistic painting features soft pink flowers set against a predominantly white background. The leaves are painted in shades of green, framing the blossoms naturally. At the center of the composition, some flowers have subtle lemon-colored highlights created with a watercolor effect, adding a delicate, luminous touch. The overall piece exudes freshness and tranquility, capturing the gentle charm of a spring garden.",
+        "price" : 200
+        }
+    
+
+    ]
+}
