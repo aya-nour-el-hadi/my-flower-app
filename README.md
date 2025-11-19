@@ -23,7 +23,7 @@ L'utilisateur peut :\
     │   ├── Formulaire.js           # Formulaire d'ajout (si existe)
     │   ├── ProduitFlowers.js       # Page principale des produits (fleurs)
     │   └── App.js                  # Composant global
-            db.json
+            
     │
     ├── public/
     │   └── images/                 # Images des fleurs
