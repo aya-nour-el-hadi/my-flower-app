@@ -33,13 +33,14 @@ L'utilisateur peut :
 
 ## 🔹 Exemple db.json
 
-```json
+json
 {
   "flowers": [
     { "id": 1, "name": "Rose Rouge", "price": 20, "description": "Une belle rose rouge.", "image": "/images/rose-rouge.jpg" },
     { "id": 2, "name": "Tulipe Jaune", "price": 15, "description": "Tulipe lumineuse et fraîche.", "image": "/images/tulipe-jaune.jpg" }
   ]
 }
+
 
 ## 🔹 Exemple ProduitFlowers.js
 
