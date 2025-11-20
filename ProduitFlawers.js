@@ -26,7 +26,7 @@ export default function ProduitFlawers(){
     return(
         <>
         
-        <h1 style={{textAlign:"center"}}>🌺Flowers</h1>
+       
         
         <div className="container" id="about">
             {data.map((d,index)=>{

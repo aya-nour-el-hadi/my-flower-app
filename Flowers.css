@@ -19,16 +19,7 @@ ul{
     display: flex;
     padding: 15px;
 }
-li.but{
-    margin-left: 0px;
-    color: aliceblue;
-    align-items: center;
-    font-family: cursive;
-}
-li:not(li.but){
-   margin-right: 0px;
-   margin-top: 4px;
-}
+
 button{
     background-color: palevioletred;
     filter: drop-shadow(0 0 10px);

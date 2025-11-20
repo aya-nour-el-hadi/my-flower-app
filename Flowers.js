@@ -10,13 +10,8 @@ export default function Flowers(){
         <div className='nav'>
             <ul>
                 <li className='but'>
-                    <h3><b>🌷Ma Flowers</b></h3>
+                    <h1 style={{textAlign:'center'}}><b>🌷Ma Flowers</b></h1>
                 </li>
-                <li style={{color:'white'}}>
-                    <h4><b><a href="#"  style={{color:'white'}}>About</a></b></h4>
-                </li>
-                <li style={{color:'white'}}><h4><b><a href="#" style={{color:'white'}}>Daitails</a></b></h4></li>
-                <li style={{color:'white'}}> <h4><b><a href="#" style={{color:'white'}}>Panier</a></b></h4></li>
             </ul>
         </div>
               <Routes>
