@@ -1,4 +1,4 @@
-# 🌹 My Flower Shop - Projet React
+# 🌹 my-flower-app
 
 **Description du projet :**\
 Application développée avec **React**, spécialisée dans la présentation
@@ -92,5 +92,3 @@ npm start
 ## 🔹 Auteur
 
 **Aya Nourelhadi**
-
-# my-flower-app
